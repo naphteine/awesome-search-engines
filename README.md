@@ -10,6 +10,7 @@ Simple list of all kinds of search engines
 - [Qwant](https://www.qwant.com/)
 - [Startpage](https://www.startpage.com/)
 - [SearX Instances List](https://searx.space/)
+- [Siik](https://siik.co/)
 - [SwissCows](https://swisscows.com/)
 - [Wiby.me](https://wiby.me/)
 - [Yahoo](https://yahoo.com)
@@ -33,3 +34,15 @@ Simple list of all kinds of search engines
 ### Japanese
 - [goo](https://search.goo.ne.jp/)
 - [Yahoo! JAPAN](https://www.yahoo.co.jp/)
+
+## Peer-to-peer
+- [yaCy](https://yacy.net/)
+
+## Reverse search
+- [Anime Scene Search Engine - trace.moe](https://trace.moe/)
+- [Bing Visual Search](https://www.bing.com/visualsearch)
+- [Google Images](https://images.google.com/)
+- [iqdb](https://www.iqdb.org/)
+- [Reverse Image Search](https://www.reverseimagesearch.org/)
+- [SauceNAO](https://saucenao.com/)
+- [TinEye](https://tineye.com/)
