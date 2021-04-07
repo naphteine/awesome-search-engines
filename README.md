@@ -1,6 +1,7 @@
 # Awesome Search Engines [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 Simple list of all kinds of search engines
 
+## General
 - [Bing](https://www.bing.com/)
 - [DuckDuckGo](https://www.duckduckgo.com/)
 - [Ecosia](https://www.ecosia.org/)
@@ -13,3 +14,15 @@ Simple list of all kinds of search engines
 - [Wiby.me](https://wiby.me/)
 - [Yahoo](https://yahoo.com)
 - [Yandex](https://yandex.com/)
+
+## Child-friendly
+- [Kiddle](https://www.kiddle.co/)
+## Language-specific
+### Chinese
+- [Baidu](https://www.baidu.com)
+
+### Korean
+- [NAVER](https://www.naver.com/)
+### Japanese
+- [goo](https://search.goo.ne.jp/)
+- [Yahoo! JAPAN](https://www.yahoo.co.jp/)
