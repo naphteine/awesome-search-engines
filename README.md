@@ -24,6 +24,8 @@ Simple list of all kinds of search engines
 - [Soso](https://www.soso.com/)
 - [Youdao](https://www.youdao.com/)
 
+### Icelandic
+- [Leit.is](http://leit.is/) :zap: HTTP-only
 ### Korean
 - [NAVER](https://www.naver.com/)
 ### Japanese
