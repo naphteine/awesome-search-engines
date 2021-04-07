@@ -20,6 +20,9 @@ Simple list of all kinds of search engines
 ## Language-specific
 ### Chinese
 - [Baidu](https://www.baidu.com)
+- [Sogou](https://www.sogou.com/)
+- [Soso](https://www.soso.com/)
+- [Youdao](https://www.youdao.com/)
 
 ### Korean
 - [NAVER](https://www.naver.com/)
