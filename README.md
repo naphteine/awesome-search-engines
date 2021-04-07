@@ -28,6 +28,8 @@ Simple list of all kinds of search engines
 - [Leit.is](http://leit.is/) :zap: HTTP-only
 ### Korean
 - [NAVER](https://www.naver.com/)
+### Slovenian
+- [Najdi.si](https://www.najdi.si/)
 ### Japanese
 - [goo](https://search.goo.ne.jp/)
 - [Yahoo! JAPAN](https://www.yahoo.co.jp/)
