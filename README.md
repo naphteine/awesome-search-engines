@@ -8,6 +8,8 @@ Simple list of all kinds of search engines
 - [Peer-to-peer](#peer-to-peer)
 - [Reverse search](#reverse-search)
 ## General
+- [AOL](https://www.aol.com/)
+- [Ask.com](https://www.ask.com/)
 - [Bing](https://www.bing.com/)
 - [DuckDuckGo](https://www.duckduckgo.com/)
 - [Ecosia](https://www.ecosia.org/)
