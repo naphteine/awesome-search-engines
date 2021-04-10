@@ -25,7 +25,10 @@ Simple list of all kinds of search engines
 - [Yandex](https://yandex.com/)
 
 ## Child-friendly
-- [Kiddle](https://www.kiddle.co/)
+- [Kiddle](https://www.kiddle.co/) :zap: Google search
+- [KidRex](https://www.alarms.org/kidrex/) :zap: Google search
+- [KidzSearch](https://kidzsearch.com/) :zap: Google search
+- [WackySafe](https://wackysafe.com/) :zap: Google search
 ## Language-specific
 ### Chinese
 - [Baidu](https://www.baidu.com)
