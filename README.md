@@ -3,6 +3,7 @@ Simple list of all kinds of search engines
 
 ## Index
 - [General](#general)
+- [Academical](#academical)
 - [Child-friendly](#child-friendly)
 - [Language-specific](#language-specific)
 - [Peer-to-peer](#peer-to-peer)
@@ -24,6 +25,8 @@ Simple list of all kinds of search engines
 - [Yahoo](https://yahoo.com)
 - [Yandex](https://yandex.com/)
 
+## Academical
+- [Google Scholar](https://scholar.google.com/)
 ## Child-friendly
 - [Kiddle](https://www.kiddle.co/) :zap: Google search
 - [KidRex](https://www.alarms.org/kidrex/) :zap: Google search
