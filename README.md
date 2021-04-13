@@ -27,6 +27,7 @@ Simple list of all kinds of search engines
 
 ## Academical
 - [Google Scholar](https://scholar.google.com/)
+- [JSTOR](https://www.jstor.org/)
 ## Child-friendly
 - [Kiddle](https://www.kiddle.co/) :zap: Google search
 - [KidRex](https://www.alarms.org/kidrex/) :zap: Google search
