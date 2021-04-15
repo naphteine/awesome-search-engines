@@ -5,6 +5,7 @@ Simple list of all kinds of search engines
 - [General](#general)
 - [Academical](#academical)
 - [Child-friendly](#child-friendly)
+- [Content search](#content-search)
 - [Language-specific](#language-specific)
 - [Peer-to-peer](#peer-to-peer)
 - [Reverse search](#reverse-search)
@@ -33,6 +34,8 @@ Simple list of all kinds of search engines
 - [KidRex](https://www.alarms.org/kidrex/) :zap: Google search
 - [KidzSearch](https://kidzsearch.com/) :zap: Google search
 - [WackySafe](https://wackysafe.com/) :zap: Google search
+## Content search
+- [Creative Commons](https://search.creativecommons.org/)
 ## Language-specific
 ### Chinese
 - [Baidu](https://www.baidu.com)
