@@ -9,6 +9,8 @@ Simple list of all kinds of search engines
 - [Language-specific](#language-specific)
 - [Peer-to-peer](#peer-to-peer)
 - [Reverse search](#reverse-search)
+- [Miscellaneous](#miscellaneous)
+
 ## General
 - [AOL](https://www.aol.com/)
 - [Ask.com](https://www.ask.com/)
@@ -29,13 +31,16 @@ Simple list of all kinds of search engines
 ## Academical
 - [Google Scholar](https://scholar.google.com/)
 - [JSTOR](https://www.jstor.org/)
+
 ## Child-friendly
 - [Kiddle](https://www.kiddle.co/) :zap: Google search
 - [KidRex](https://www.alarms.org/kidrex/) :zap: Google search
 - [KidzSearch](https://kidzsearch.com/) :zap: Google search
 - [WackySafe](https://wackysafe.com/) :zap: Google search
+
 ## Content search
 - [Creative Commons](https://search.creativecommons.org/)
+
 ## Language-specific
 ### Chinese
 - [Baidu](https://www.baidu.com)
@@ -45,10 +50,13 @@ Simple list of all kinds of search engines
 
 ### Icelandic
 - [Leit.is](http://leit.is/) :zap: HTTP-only
+
 ### Korean
 - [NAVER](https://www.naver.com/)
+
 ### Slovenian
 - [Najdi.si](https://www.najdi.si/)
+
 ### Japanese
 - [goo](https://search.goo.ne.jp/)
 - [Yahoo! JAPAN](https://www.yahoo.co.jp/)
@@ -64,3 +72,7 @@ Simple list of all kinds of search engines
 - [Reverse Image Search](https://www.reverseimagesearch.org/)
 - [SauceNAO](https://saucenao.com/)
 - [TinEye](https://tineye.com/)
+
+## Miscellaneous
+- [Internet Archive](https://archive.org/)
+- [Wolfram|Alpha](https://www.wolframalpha.com/)
