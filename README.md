@@ -22,7 +22,6 @@ Simple list of all kinds of search engines
 - [Qwant](https://www.qwant.com/)
 - [Startpage](https://www.startpage.com/)
 - [SearX Instances List](https://searx.space/)
-- [Siik](https://siik.co/)
 - [SwissCows](https://swisscows.com/)
 - [Wiby.me](https://wiby.me/)
 - [Yahoo](https://yahoo.com)
